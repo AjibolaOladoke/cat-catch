@@ -6,28 +6,27 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![cat-catch](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![cat-catch](images/preview.png)](https://github.com/Swift-Tech-Co/cat-catch)
 
 ## 🐴Chrome
 
-https://www.swifttechco.com
+https://github.com/Swift-Tech-Co/cat-catch
 
 ## 🦄Edge
 
-https://www.swifttechco.com
+https://github.com/Swift-Tech-Co/cat-catch
 
 ## 🦊Firefox
 
-https://www.swifttechco.com 😂需非国区IP访问
+https://github.com/Swift-Tech-Co/cat-catch 😂需非国区IP访问
 
 ## 📱Edge Android
-
 
 💔猫抓是开源的，任何人都可以下载修改上架到应用商店，已经有不少加上广告代码后上架的伪猫抓，请注意自己的数据安全。所有安装地址以github和用户文档为准。
 
 # 📒用户文档
 
-https://www.swifttechco.com
+https://github.com/Swift-Tech-Co/cat-catch
 
 # 📘安装方法
 
@@ -55,8 +54,8 @@ https://www.swifttechco.com
 
 # 🔍界面
 
-[![popup界面](https://raw.githubusercontent.com/xifangczy/cat-catch/master/README/popup.png)](https://www.swifttechco.com)
-[![m3u8解析器界面](https://raw.githubusercontent.com/xifangczy/cat-catch/master/README/m3u8.png)](https://www.swifttechco.com)
+[![popup界面](https://raw.githubusercontent.com/xifangczy/cat-catch/master/README/popup.png)](https://github.com/Swift-Tech-Co/cat-catch)
+[![m3u8解析器界面](https://raw.githubusercontent.com/xifangczy/cat-catch/master/README/m3u8.png)](https://github.com/Swift-Tech-Co/cat-catch)
 
 # 🤚🏻免责
 
@@ -116,13 +115,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/cat-catch
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
