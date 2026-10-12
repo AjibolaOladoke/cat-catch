@@ -1,15 +1,12 @@
-<p align="center"> [中文] | [<a href="README_en.md">English</a>] | [<a href="README_es.md">Español</a>] | [<a href="README_ru.md">Русский</a>]</p>
+# cat-catch
 
-# 📑简介
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the cat-catch notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![cat-catch](https://opengraph.githubassets.com/1/xifangczy/cat-catch)](https://www.swifttechco.com)
-
-
-猫抓(cat-catch) 资源嗅探扩展，能够帮你筛选列出当前页面的资源。
-
-# 📖安装地址
+[![cat-catch](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🐴Chrome
 
@@ -46,7 +43,7 @@ https://www.swifttechco.com
 
 ## crx安装
 
-1. [Releases](https://www.swifttechco.com) **右键另存为**下载crx文件。
+1. Releases **右键另存为**下载crx文件。
 2. 扩展管理页面 打开 "开发者模式"。
 3. 将crx文件拖入扩展程序页面即可。
 
@@ -86,14 +83,14 @@ https://www.swifttechco.com
 
 # 💖鸣谢
 
-- [hls.js](https://www.swifttechco.com)
-- [jQuery](https://www.swifttechco.com)
-- [mux.js](https://www.swifttechco.com)
-- [jquery.json-viewer](https://www.swifttechco.com)
-- [Momo707577045](https://www.swifttechco.com)
-- [mpd-parser](https://www.swifttechco.com)
-- [StreamSaver.js](https://www.swifttechco.com)
-- [MQTT.js](https://www.swifttechco.com)
+- hls.js
+- jQuery
+- mux.js
+- jquery.json-viewer
+- Momo707577045
+- mpd-parser
+- StreamSaver.js
+- MQTT.js
 
 # 📜License
 
@@ -115,14 +112,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
